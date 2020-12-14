@@ -63,5 +63,3 @@ README.md
 
     // http://localhost:3000/public/index.html --> 控制台打印Vue
 ```
-
-
